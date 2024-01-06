@@ -1,0 +1,15 @@
+title: Better Limits
+originalAuthor: Shananas
+description: Buffed Knocksmash, Comet, Duck Flare, Whirligoof, Solo Trinity
+assets:
+
+#limit
+- method: binarc
+  name: 00battle.bin
+  source:
+  - name: atkp
+    method: listpatch
+    type: List
+    source:
+    - name: AtkpList.yml
+      type: atkp
