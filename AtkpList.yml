@@ -1220,7 +1220,7 @@
   Interval: 8
   FloorCheck: 0
   DriveDrain: 8
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -1253,7 +1253,7 @@
   Interval: 8
   FloorCheck: 0
   DriveDrain: 2
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -1286,7 +1286,7 @@
   Interval: 8
   FloorCheck: 0
   DriveDrain: 8
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -1319,7 +1319,7 @@
   Interval: 8
   FloorCheck: 0
   DriveDrain: 2
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -1352,7 +1352,7 @@
   Interval: 8
   FloorCheck: 0
   DriveDrain: 8
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -1385,7 +1385,7 @@
   Interval: 8
   FloorCheck: 0
   DriveDrain: 2
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -1418,7 +1418,7 @@
   Interval: 0
   FloorCheck: 0
   DriveDrain: 8
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -1451,7 +1451,7 @@
   Interval: 0
   FloorCheck: 0
   DriveDrain: 8
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -1484,7 +1484,7 @@
   Interval: 0
   FloorCheck: 0
   DriveDrain: 8
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -1518,7 +1518,7 @@
   Interval: 8
   FloorCheck: 0
   DriveDrain: 1
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -1551,7 +1551,7 @@
   Interval: 8
   FloorCheck: 0
   DriveDrain: 1
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -1584,7 +1584,7 @@
   Interval: 8
   FloorCheck: 0
   DriveDrain: 1
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -1617,7 +1617,7 @@
   Interval: 8
   FloorCheck: 0
   DriveDrain: 1
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -1650,7 +1650,7 @@
   Interval: 8
   FloorCheck: 0
   DriveDrain: 1
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -1683,7 +1683,7 @@
   Interval: 8
   FloorCheck: 0
   DriveDrain: 1
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -1716,7 +1716,7 @@
   Interval: 0
   FloorCheck: 0
   DriveDrain: 13
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -1749,7 +1749,7 @@
   Interval: 0
   FloorCheck: 0
   DriveDrain: 13
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -1782,7 +1782,7 @@
   Interval: 0
   FloorCheck: 0
   DriveDrain: 13
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -1816,7 +1816,7 @@
   Interval: 8
   FloorCheck: 0
   DriveDrain: 2
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -1849,7 +1849,7 @@
   Interval: 8
   FloorCheck: 0
   DriveDrain: 2
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -1882,7 +1882,7 @@
   Interval: 8
   FloorCheck: 0
   DriveDrain: 2
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -1915,7 +1915,7 @@
   Interval: 8
   FloorCheck: 0
   DriveDrain: 2
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -1948,7 +1948,7 @@
   Interval: 8
   FloorCheck: 0
   DriveDrain: 2
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -1981,7 +1981,7 @@
   Interval: 8
   FloorCheck: 0
   DriveDrain: 2
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -2014,7 +2014,7 @@
   Interval: 0
   FloorCheck: 0
   DriveDrain: 22
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -2047,7 +2047,7 @@
   Interval: 0
   FloorCheck: 0
   DriveDrain: 22
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -2080,7 +2080,7 @@
   Interval: 0
   FloorCheck: 0
   DriveDrain: 22
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -2114,7 +2114,7 @@
   Interval: 8
   FloorCheck: 0
   DriveDrain: 2
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -2147,7 +2147,7 @@
   Interval: 8
   FloorCheck: 0
   DriveDrain: 2
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -2180,7 +2180,7 @@
   Interval: 8
   FloorCheck: 0
   DriveDrain: 2
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -2213,7 +2213,7 @@
   Interval: 8
   FloorCheck: 0
   DriveDrain: 2
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -2246,7 +2246,7 @@
   Interval: 8
   FloorCheck: 0
   DriveDrain: 2
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -2279,7 +2279,7 @@
   Interval: 8
   FloorCheck: 0
   DriveDrain: 2
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -2312,7 +2312,7 @@
   Interval: 0
   FloorCheck: 0
   DriveDrain: 22
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -2345,7 +2345,7 @@
   Interval: 0
   FloorCheck: 0
   DriveDrain: 22
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -2378,7 +2378,7 @@
   Interval: 0
   FloorCheck: 0
   DriveDrain: 22
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -2413,7 +2413,7 @@
   Interval: 6
   FloorCheck: 0
   DriveDrain: 8
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -2446,7 +2446,7 @@
   Interval: 6
   FloorCheck: 0
   DriveDrain: 2
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -2479,7 +2479,7 @@
   Interval: 6
   FloorCheck: 0
   DriveDrain: 8
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -2512,7 +2512,7 @@
   Interval: 6
   FloorCheck: 0
   DriveDrain: 2
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -2545,7 +2545,7 @@
   Interval: 6
   FloorCheck: 0
   DriveDrain: 8
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -2578,7 +2578,7 @@
   Interval: 6
   FloorCheck: 0
   DriveDrain: 2
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -2611,7 +2611,7 @@
   Interval: 0
   FloorCheck: 0
   DriveDrain: 8
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -2644,7 +2644,7 @@
   Interval: 0
   FloorCheck: 0
   DriveDrain: 8
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -2677,7 +2677,7 @@
   Interval: 0
   FloorCheck: 0
   DriveDrain: 8
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -2711,7 +2711,7 @@
   Interval: 6
   FloorCheck: 0
   DriveDrain: 1
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -2744,7 +2744,7 @@
   Interval: 6
   FloorCheck: 0
   DriveDrain: 1
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -2777,7 +2777,7 @@
   Interval: 6
   FloorCheck: 0
   DriveDrain: 1
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -2810,7 +2810,7 @@
   Interval: 6
   FloorCheck: 0
   DriveDrain: 1
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -2843,7 +2843,7 @@
   Interval: 6
   FloorCheck: 0
   DriveDrain: 1
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -2876,7 +2876,7 @@
   Interval: 6
   FloorCheck: 0
   DriveDrain: 1
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -2909,7 +2909,7 @@
   Interval: 0
   FloorCheck: 0
   DriveDrain: 13
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -2942,7 +2942,7 @@
   Interval: 0
   FloorCheck: 0
   DriveDrain: 13
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -2975,7 +2975,7 @@
   Interval: 0
   FloorCheck: 0
   DriveDrain: 13
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -3009,7 +3009,7 @@
   Interval: 6
   FloorCheck: 0
   DriveDrain: 2
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -3042,7 +3042,7 @@
   Interval: 6
   FloorCheck: 0
   DriveDrain: 2
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -3075,7 +3075,7 @@
   Interval: 6
   FloorCheck: 0
   DriveDrain: 2
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -3108,7 +3108,7 @@
   Interval: 6
   FloorCheck: 0
   DriveDrain: 2
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -3141,7 +3141,7 @@
   Interval: 6
   FloorCheck: 0
   DriveDrain: 2
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -3174,7 +3174,7 @@
   Interval: 6
   FloorCheck: 0
   DriveDrain: 2
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -3207,7 +3207,7 @@
   Interval: 0
   FloorCheck: 0
   DriveDrain: 22
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -3240,7 +3240,7 @@
   Interval: 0
   FloorCheck: 0
   DriveDrain: 22
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -3273,7 +3273,7 @@
   Interval: 0
   FloorCheck: 0
   DriveDrain: 22
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -3307,7 +3307,7 @@
   Interval: 6
   FloorCheck: 0
   DriveDrain: 2
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -3340,7 +3340,7 @@
   Interval: 6
   FloorCheck: 0
   DriveDrain: 2
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -3373,7 +3373,7 @@
   Interval: 6
   FloorCheck: 0
   DriveDrain: 2
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -3406,7 +3406,7 @@
   Interval: 6
   FloorCheck: 0
   DriveDrain: 2
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -3439,7 +3439,7 @@
   Interval: 6
   FloorCheck: 0
   DriveDrain: 2
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -3472,7 +3472,7 @@
   Interval: 6
   FloorCheck: 0
   DriveDrain: 2
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -3505,7 +3505,7 @@
   Interval: 0
   FloorCheck: 0
   DriveDrain: 22
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -3538,7 +3538,7 @@
   Interval: 0
   FloorCheck: 0
   DriveDrain: 22
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
@@ -3571,7 +3571,7 @@
   Interval: 0
   FloorCheck: 0
   DriveDrain: 22
-  RevengeDamage: 0
+  RevengeDamage: 1
   AttackTrReaction: Attack
   ComboGroup: 0
   RandomEffect: 0
