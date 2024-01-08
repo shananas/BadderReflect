@@ -1395,7 +1395,7 @@
   Id: 667
   Type: PierceArmor
   CriticalAdjust: 1
-  Power: 100
+  Power: 75
   Team: 0
   Element: 5
   EnemyReaction: 6
@@ -1428,7 +1428,7 @@
   Id: 668
   Type: PierceArmor
   CriticalAdjust: 1
-  Power: 100
+  Power: 75
   Team: 0
   Element: 5
   EnemyReaction: 6
@@ -1461,7 +1461,7 @@
   Id: 669
   Type: PierceArmor
   CriticalAdjust: 1
-  Power: 100
+  Power: 75
   Team: 0
   Element: 5
   EnemyReaction: 7
@@ -1693,7 +1693,7 @@
   Id: 667
   Type: PierceArmor
   CriticalAdjust: 1
-  Power: 100
+  Power: 75
   Team: 0
   Element: 5
   EnemyReaction: 6
@@ -1726,7 +1726,7 @@
   Id: 668
   Type: PierceArmor
   CriticalAdjust: 1
-  Power: 100
+  Power: 75
   Team: 0
   Element: 5
   EnemyReaction: 6
@@ -1759,7 +1759,7 @@
   Id: 669
   Type: PierceArmor
   CriticalAdjust: 1
-  Power: 100
+  Power: 75
   Team: 0
   Element: 5
   EnemyReaction: 7
@@ -1991,7 +1991,7 @@
   Id: 667
   Type: PierceArmor
   CriticalAdjust: 1
-  Power: 100
+  Power: 75
   Team: 0
   Element: 5
   EnemyReaction: 6
@@ -2024,7 +2024,7 @@
   Id: 668
   Type: PierceArmor
   CriticalAdjust: 1
-  Power: 100
+  Power: 75
   Team: 0
   Element: 5
   EnemyReaction: 6
@@ -2057,7 +2057,7 @@
   Id: 669
   Type: PierceArmor
   CriticalAdjust: 1
-  Power: 100
+  Power: 75
   Team: 0
   Element: 5
   EnemyReaction: 7
@@ -2289,7 +2289,7 @@
   Id: 667
   Type: PierceArmor
   CriticalAdjust: 1
-  Power: 100
+  Power: 75
   Team: 0
   Element: 5
   EnemyReaction: 6
@@ -2322,7 +2322,7 @@
   Id: 668
   Type: PierceArmor
   CriticalAdjust: 1
-  Power: 100
+  Power: 75
   Team: 0
   Element: 5
   EnemyReaction: 6
@@ -2355,7 +2355,7 @@
   Id: 669
   Type: PierceArmor
   CriticalAdjust: 1
-  Power: 100
+  Power: 75
   Team: 0
   Element: 5
   EnemyReaction: 7
@@ -2588,7 +2588,7 @@
   Id: 667
   Type: PierceArmor
   CriticalAdjust: 1
-  Power: 200
+  Power: 150
   Team: 0
   Element: 5
   EnemyReaction: 6
@@ -2621,7 +2621,7 @@
   Id: 668
   Type: PierceArmor
   CriticalAdjust: 1
-  Power: 200
+  Power: 150
   Team: 0
   Element: 5
   EnemyReaction: 6
@@ -2654,7 +2654,7 @@
   Id: 669
   Type: PierceArmor
   CriticalAdjust: 1
-  Power: 200
+  Power: 150
   Team: 0
   Element: 5
   EnemyReaction: 7
@@ -2886,7 +2886,7 @@
   Id: 667
   Type: PierceArmor
   CriticalAdjust: 1
-  Power: 200
+  Power: 150
   Team: 0
   Element: 5
   EnemyReaction: 6
@@ -2919,7 +2919,7 @@
   Id: 668
   Type: PierceArmor
   CriticalAdjust: 1
-  Power: 200
+  Power: 150
   Team: 0
   Element: 5
   EnemyReaction: 6
@@ -2952,7 +2952,7 @@
   Id: 669
   Type: PierceArmor
   CriticalAdjust: 1
-  Power: 200
+  Power: 150
   Team: 0
   Element: 5
   EnemyReaction: 7
@@ -3184,7 +3184,7 @@
   Id: 667
   Type: PierceArmor
   CriticalAdjust: 1
-  Power: 200
+  Power: 150
   Team: 0
   Element: 5
   EnemyReaction: 6
@@ -3217,7 +3217,7 @@
   Id: 668
   Type: PierceArmor
   CriticalAdjust: 1
-  Power: 200
+  Power: 150
   Team: 0
   Element: 5
   EnemyReaction: 6
@@ -3250,7 +3250,7 @@
   Id: 669
   Type: PierceArmor
   CriticalAdjust: 1
-  Power: 200
+  Power: 150
   Team: 0
   Element: 5
   EnemyReaction: 7
@@ -3482,7 +3482,7 @@
   Id: 667
   Type: PierceArmor
   CriticalAdjust: 1
-  Power: 200
+  Power: 150
   Team: 0
   Element: 5
   EnemyReaction: 6
@@ -3515,7 +3515,7 @@
   Id: 668
   Type: PierceArmor
   CriticalAdjust: 1
-  Power: 200
+  Power: 150
   Team: 0
   Element: 5
   EnemyReaction: 6
@@ -3548,7 +3548,7 @@
   Id: 669
   Type: PierceArmor
   CriticalAdjust: 1
-  Power: 200
+  Power: 150
   Team: 0
   Element: 5
   EnemyReaction: 7
